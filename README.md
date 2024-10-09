@@ -52,9 +52,8 @@ To populate the items table with predefined items, you can run the database seed
 php artisan db:seed --class=ItemSeeder
 ```
 
-![DB Table](img/table.jpg)
+![DB DIAG](img/db.png)
 
-![DB Choices](img/choice.jpg)
 
 
 ## API Endpoints
